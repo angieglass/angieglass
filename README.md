@@ -3,7 +3,9 @@
     - Google Analytics
     - Adobe Analytics
     - Google Tag Manager
-    - Content Square. 
+    - Google Data Studio 
+    - Content Square 
+   
 - I’m currently enrolled in a part-time program to learn Python, SQL, Tableau, Machine Learning and much more. 
 
 - 📫 How to reach me: 
